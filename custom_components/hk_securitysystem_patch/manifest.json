@@ -1,0 +1,8 @@
+{
+  "domain": "hk_securitysystem_patch",
+  "name": "HomeKit SecuritySystem Patch",
+  "version": "1.0.0",
+  "dependencies": ["homekit"],
+  "codeowners": [],
+  "requirements": []
+}
